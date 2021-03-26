@@ -1,1 +1,2 @@
 # Social.Media.Image.Analysis
+A first analysis, in the scope of my master thesis, regarding the similarities and differences between artistic elements on images. The features selected for this study are the age, gender, image color, skin color, object type, object color, facial expression, automatic image captionning. We collected the features by implementing different pre-trained networks and we perform a Kmeans clustering in order to group brands that implement similar techniques. 
